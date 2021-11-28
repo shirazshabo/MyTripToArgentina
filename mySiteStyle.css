@@ -1,0 +1,30 @@
+h1 {margin-left:10%; margin-right: 10%; color: black; font-family: "Sofia", sans-serif; text-shadow: 3px 3px 3px #ababab; font-size: 155px; line-height: 160px; margin-bottom: 0px; margin-top: 40px; text-align: center; background-image:url('imagesMySite/argentinaFlag.png'); background-repeat: no-repeat; background-attachment: local; background-size:cover; background-position: center;}
+
+
+body {
+  font-family: Poppins, sans-serif;
+  font-size: 16px;  
+  text-align: center;
+  background-color: LightBlue
+}
+
+#specialIl {
+  display: inline;
+  font-family: Poppins, sans-serif;
+  font-size: 30px;
+}
+
+#specialList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+img {
+	border-radius: 50%;
+}
